@@ -20,7 +20,7 @@ document.addEventListener('DOMContentLoaded', () => {
   });
 });
 
-// formularioóoo
+// formularioóoogit 
 const form = document.getElementById('contactForm');
 const formStatus = document.getElementById('formStatus');
 
